@@ -49,4 +49,3 @@ print("--------------------------------------------------------------")
 ## Output
 <img width="967" height="450" alt="image" src="https://github.com/user-attachments/assets/439c4a27-2a73-4f8f-b1f8-a5ebcc2cdbc7" />
 
-## Result
